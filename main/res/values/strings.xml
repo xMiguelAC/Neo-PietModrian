@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Piet Mondrian[MC]</string>
+    <string name="box_one">Neoplasticism</string>
+    <string name="box_two">Gris</string>
+    <string name="box_three">Rojo</string>
+    <string name="box_four">Amarillo</string>
+    <string name="how_to_play">Como se juega?:</string>
+    <string name="box_five">Verde</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+    <string name="retryy">Retryy</string>
+
+</resources>
